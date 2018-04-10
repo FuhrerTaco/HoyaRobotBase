@@ -20,7 +20,7 @@ public class RobotMap {
 	
 	//elevator
 	public static final int leftElevatorMotorID = 0;
-	public static final int RightElevatorMotorID = 0;
+	public static final int rightElevatorMotorID = 0;
 	
 	//intake
 	public static final int rightIntakeMotorID = 0;

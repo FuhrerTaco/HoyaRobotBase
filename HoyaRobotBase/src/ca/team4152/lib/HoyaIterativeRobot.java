@@ -19,7 +19,7 @@ public class HoyaIterativeRobot extends HoyaRobotBase {
 		//initializes the robot
 		robotInit();
 		
-		//Tell the Diverstation that the robot is ready to be enabled
+		//Tell the Driverstation that the robot is ready to be enabled
 		HAL.observeUserProgramStarting();
 		
 		//loop while the robot is on, calling the appropriate mode-dependent function
